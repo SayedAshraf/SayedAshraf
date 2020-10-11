@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Sayed Ashraf** and I'm a Frontend (Vuejs) developer! 👋
+My name is **Sayed Ashraf** and I'm a Software Engineer 👋
 
 - 🔭 I’m currently working on Freelance Projects
 - 🌱 I’m currently learning ... Vue.js
